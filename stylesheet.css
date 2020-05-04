@@ -1,0 +1,117 @@
+.header {
+    background-color: red;    
+    height: 250px;
+    display: flex;
+    border-bottom: 5px solid black;
+    
+}
+
+span {
+    color: gold;
+}
+
+.header-logo {
+    
+    font-size: 20px;
+    display: flex;
+    border-right: 2px solid black;
+    border-right: 2px solid black;
+}
+.header-list {
+    font-size: 15px;
+    display: flex;
+    border-right: 2px solid black;
+    
+}
+
+.main {
+    background-color: yellow;
+    height: 3100px;
+    border-right: 2px solid black;
+    border-bottom: 5px solid black;
+    
+    
+}
+.main  p {
+    padding: 20px 40px;
+    border: 2px solid black;
+}
+
+
+.footer {
+    background-color: pink;
+    height: 1000px;
+    border-right: 2px solid black;
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+}
+
+.footer-logo {
+    width: 300px;
+    border-right: 2px solid black;
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+}
+
+.footer-list {
+    
+    border-top: 2px solid black;
+    border-right: 2px solid black;
+    border-bottom: 2px solid black;
+}
+
+.image {
+    width: 200px;
+    height: 150px;
+    display: inline;
+}
+
+.contents {
+    margin-bottom: 30px;
+    border-top: 5px solid black;
+    
+}
+
+.copy-container {
+    border-bottom: 5px solid black;
+    border-top: 5px solid black;
+    margin-bottom: 3px;
+    margin-top: 3px;
+}
+
+.contact-form {
+    border-top: 5px solid black;
+
+}
+
+.contents-item p {
+    font-size: 15px;
+    display: inline-table;
+    border: 2px solid black;
+    margin: 0;
+    padding: 0%;
+}
+
+input {
+    width: 200px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    padding: 20px;
+    font-size: 18px;
+    border: 2px solid black;
+}
+
+textarea {
+    width: 400px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    padding: 20px;
+    font-size: 18px;
+    border: 2px solid rgb(49, 77, 23);
+
+}
+
+.contact-submit {
+    background-color: fuchsia;
+    color: maroon;
+}
